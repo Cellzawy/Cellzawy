@@ -1,7 +1,6 @@
 <h1 align="center">
   I'm Ahmed
 </h1>
-<hr>
 <h4 align="center">
   Web Developer | Computer Science Student
 </h4>
