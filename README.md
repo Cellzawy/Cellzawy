@@ -23,7 +23,7 @@
 
 ### Front-End Development
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img style="height: 20px;width:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img style="height: 10vh;width:10vw" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 - Bootstrap
 - Tailwind CSS
 - Javascript
