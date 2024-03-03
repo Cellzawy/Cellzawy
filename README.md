@@ -5,11 +5,11 @@
   Web Developer - Computer Science Student
 </h4>
 
-<h3 align="center">
-  🚀 About Me
+<h3>
+  ### 🚀 About Me
 </h3>
 
-<p align="center">
+<p>
   🎓 I am Ahmed, a student pursuing my bachelor in Computer Science and will graduate in 2026.
 </p>
 
