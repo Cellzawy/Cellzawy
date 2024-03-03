@@ -28,6 +28,15 @@
 - CSS
 - Bootstrap
 
+### Back-End Development
+- Node.js
+- Express.js
+- MongoDB
+
+### Game Development
+- Unity
+- Blender
+
 <h3 align="center">
   Feel free to reach out if you're interested in collaborating or just want to chat about tech! Let's create something amazing together. 🚀
 </h3>
