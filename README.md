@@ -1,15 +1,42 @@
 <h1 align="center">
-  I'm Ahmed 💻
+  I'm Ahmed 
 </h1>
 <h4 align="center">
   Web Developer | Computer Science Student
 </h4>
-🚀 About Me
-🎓 I am Ahmed, a student prusuing my bachelor in Computer Science and will graduate in 2026.
 
-🛠️ Skills
-Languages
-typescript javascript python dart
+<p align="center">
+  🚀 About Me
+</p>
 
-Front-End Development
-next react redux react-router material-ui pwa chakra-ui tailwind-css storybook graphql three.js html css sass bootstrap jquery
+<p align="center">
+  🎓 I am Ahmed, a student pursuing my bachelor in Computer Science and will graduate in 2026.
+</p>
+
+<p align="center">
+  🛠️ Skills
+</p>
+
+### Languages
+- TypeScript
+- JavaScript
+- Python
+- Dart
+
+### Front-End Development
+- Next.js
+- React
+- Redux
+- React Router
+- Material-UI
+- PWA
+- Chakra UI
+- Tailwind CSS
+- Storybook
+- GraphQL
+- Three.js
+- HTML
+- CSS
+- Sass
+- Bootstrap
+- jQuery
