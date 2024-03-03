@@ -2,12 +2,12 @@
   I'm Ahmed 
 </h1>
 <h4 align="center">
-  Web Developer | Computer Science Student
+  Web Developer - Computer Science Student
 </h4>
 
-<p align="center">
+<h3 align="center">
   🚀 About Me
-</p>
+</h3>
 
 <p align="center">
   🎓 I am Ahmed, a student pursuing my bachelor in Computer Science and will graduate in 2026.
