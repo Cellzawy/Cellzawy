@@ -22,8 +22,10 @@
 - Python
 
 ### Front-End Development
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<div style="display: flex;padding: 1em">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+</div>
 - Bootstrap
 - Tailwind CSS
 - Javascript
