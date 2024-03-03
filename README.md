@@ -8,10 +8,7 @@
 
 ### 🚀 About Me
 
-
-<p>
-  🎓 I am Ahmed, a student pursuing my bachelor in Computer Science and will graduate in 2026.
-</p>
+🎓 I am Ahmed, a student pursuing my bachelor in Computer Science and will graduate in 2026.
 
 <p align="center">
   🛠️ Skills
