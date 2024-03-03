@@ -6,7 +6,7 @@
 </h4>
 
 <h3>
-  ### 🚀 About Me
+  🚀 About Me
 </h3>
 
 <p>
