@@ -1,4 +1,7 @@
-Hi there! \n
+<h5 align="center">
+  Hi there! 👋
+</h5>
+<hr>
 🚀 About Me
 🎓 I am Ahmed, a student prusuing my bachelor in Computer Science and will graduate in 2026.
 
