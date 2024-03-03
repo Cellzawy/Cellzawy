@@ -6,12 +6,14 @@
 </h4>
 <br>
 
-### 🚀 About Me
-🎓 I am Ahmed, a student pursuing my bachelor in Computer Science and will graduate in 2026.
+### 🚀 About me
+🎓   I'm a dedicated student pursuing a bachelor's degree in computer science, and I expect to graduate in 2026.
+💻   I first became interested in coding during my high school years, and I've been committed ever since.
+🎨   I am passionate about CSS and general web design. My true passion is creating visually appealing and user-friendly interfaces.
+🌱   I'm expanding my knowledge of design patterns, algorithms, and data structures to improve my talents.
+🎧   Outside of programming, I enjoy listening to music, taking long walks, and playing video games.
 
-<p align="center">
-  🛠️ Skills
-</p>
+### 🛠️ Skills
 
 ### Languages
 - TypeScript
