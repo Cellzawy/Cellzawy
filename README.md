@@ -1,6 +1,6 @@
-<h2 align="center">
+<h1 align="center">
   Hi there! 👋
-</h2>
+</h1>
 <hr>
 🚀 About Me
 🎓 I am Ahmed, a student prusuing my bachelor in Computer Science and will graduate in 2026.
