@@ -1,8 +1,8 @@
 <h1 align="center">
-  🌟 I'm Ahmed!
+🌟 I'm Ahmed!
 </h1>
 <h4 align="center">
-  Web Developer - Computer Science Student 💻
+Web Developer - Computer Science Student 💻
 </h4>
 
 
