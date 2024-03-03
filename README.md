@@ -22,11 +22,14 @@
 - Python
 
 ### Front-End Development
-- React
-- Tailwind CSS
 - HTML
-- CSS
+- <i class="devicon-css3-plain colored"></i>
 - Bootstrap
+- Tailwind CSS
+- Javascript
+- React
+
+
   
 ### Back-End Development
 - Node.js
