@@ -33,8 +33,7 @@
 <img style="height: 10vh" src="https://user-images.githubusercontent.com/46530103/149555737-e82a1492-7b53-49be-bbbe-9c0290791c8b.png" />
 
 ### Game Development
-<img style="height: 20vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-plain-wordmark.svg" />
-<img style="height: 20vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
+<img style="height: 20vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-plain-wordmark.svg" /> <img style="height: 20vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
 
 <h3 align="center">
   Feel free to reach out if you're interested in collaborating or just want to chat about tech! Let's create something amazing together. 🚀
