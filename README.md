@@ -35,6 +35,3 @@
 ### Game Development
 <img style="height: 25vh" src="https://ih1.redbubble.net/image.786468378.5783/raf,360x360,075,t,fafafa:ca443f4786.jpg" /> <img style="height: 25vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
 
-<h3 align="center">
-  Feel free to reach out if you're interested in collaborating or just want to chat about tech! Let's create something amazing together. 🚀
-</h3>
