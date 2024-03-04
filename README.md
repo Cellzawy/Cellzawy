@@ -29,7 +29,7 @@
   
 ### Back-End Development
 <img style="height: 10vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-<i class="devicon-express-original-wordmark colored"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" />
 <img style="height: 10vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
 
 ### Game Development
