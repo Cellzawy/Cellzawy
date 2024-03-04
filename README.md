@@ -26,13 +26,13 @@
 
   
 ### Back-End Development
-- Node.js
-- Express.js
-- MongoDB
+<img style="height: 10vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+<img style="height: 10vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" />
+<img style="height: 10vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
 
 ### Game Development
-- Unity
-- Blender
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-plain-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
 
 <h3 align="center">
   Feel free to reach out if you're interested in collaborating or just want to chat about tech! Let's create something amazing together. 🚀
